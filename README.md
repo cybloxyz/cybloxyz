@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🎓 Student, learning and growing every day<br>- 💻 Python & JavaScript enthusiast<br>- 📚 Studying while crying (but never giving up!)<br>- ✨ Building and breaking things at [nfnaa.vercel.app](https://nfnaa.vercel.app)
+<br>- 🎓 Student, learning and growing every day<br>- 💻 Python & JavaScript enthusiast<br>- 📚 Studying while crying (but never giving up!)<br>- ✨ Building and breaking things at [nfnaa.dev](https://nfnaa.dev)
 
 
 <!-- Snake Game Repo View -->
